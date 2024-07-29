@@ -1,2 +1,1 @@
-# Minis
-Tiny Projects Furthering my Learning
+Tiny Projects Furthering My Learning
