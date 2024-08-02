@@ -1,1 +1,1 @@
-Tiny Projects V1
+Very Short Projects
