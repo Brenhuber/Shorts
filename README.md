@@ -1,1 +1,1 @@
-Very Short Projects
+Short Projects
