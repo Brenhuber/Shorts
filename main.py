@@ -1,5 +1,4 @@
 import streamlit as st 
-from PIL import Image
 
 # Page Setup
 about_page = st.Page(
